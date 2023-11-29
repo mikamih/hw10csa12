@@ -1,0 +1,64 @@
+Name,Division,Region,Area,Population,PopulationDensity,Coastline
+Thành phố Hà Nội,Thành phố Trung ương,Đồng bằng sông Hồng,3358.6,8093.9,2409.902936,0
+Tỉnh Hà Giang,Tỉnh,Đông Bắc Bộ,7929.5,858.1,108.2161549,0
+Tỉnh Cao Bằng,Tỉnh,Đông Bắc Bộ,6700.3,530.9,79.23525812,0
+Tỉnh Bắc Kạn,Tỉnh,Đông Bắc Bộ,4860,314.4,64.69135802,0
+Tỉnh Tuyên Quang,Tỉnh,Đông Bắc Bộ,5867.9,786.3,134.0002386,0
+Tỉnh Lào Cai,Tỉnh,Tây Bắc Bộ,6364,733.3,115.2262728,0
+Tỉnh Điện Biên,Tỉnh,Tây Bắc Bộ,9541.3,601.7,63.06268538,0
+Tỉnh Lai Châu,Tỉnh,Tây Bắc Bộ,9068.8,462.6,51.01005646,0
+Tỉnh Sơn La,Tỉnh,Tây Bắc Bộ,14123.5,1252.7,88.69614472,0
+Tỉnh Yên Bái,Tỉnh,Tây Bắc Bộ,6887.5,823,119.491833,0
+Tỉnh Hoà Bình,Tỉnh,Tây Bắc Bộ,4590.6,855.8,186.4244325,0
+Tỉnh Thái Nguyên,Tỉnh,Đông Bắc Bộ,3526.6,1290.9,366.0466171,0
+Tỉnh Lạng Sơn,Tỉnh,Đông Bắc Bộ,8310.1,782.8,94.19862577,0
+Tỉnh Quảng Ninh,Tỉnh,Đông Bắc Bộ,6178.2,1324.8,214.4313878,250
+Tỉnh Bắc Giang,Tỉnh,Đông Bắc Bộ,3895.6,1810.4,464.7294383,0
+Tỉnh Phú Thọ,Tỉnh,Đông Bắc Bộ,3534.6,1466.4,414.8701409,0
+Tỉnh Vĩnh Phúc,Tỉnh,Đồng bằng sông Hồng,1235.9,1154.8,934.3798042,0
+Tỉnh Bắc Ninh,Tỉnh,Đồng bằng sông Hồng,822.7,1378.6,1675.701957,0
+Tỉnh Hải Dương,Tỉnh,Đồng bằng sông Hồng,1668.2,1896.9,1137.093874,0
+Thành phố Hải Phòng,Thành phố Trung ương,Đồng bằng sông Hồng,1561.8,2033.3,1301.895249,125
+Tỉnh Hưng Yên,Tỉnh,Đồng bằng sông Hồng,930.2,1255.8,1350.032251,0
+Tỉnh Thái Bình,Tỉnh,Đồng bằng sông Hồng,1586.4,1862.2,1173.852748,52
+Tỉnh Hà Nam,Tỉnh,Đồng bằng sông Hồng,861.9,854.5,991.4143172,0
+Tỉnh Nam Định,Tỉnh,Đồng bằng sông Hồng,1668.6,1780.9,1067.30193,72
+Tỉnh Ninh Bình,Tỉnh,Đồng bằng sông Hồng,1386.8,984.5,709.9077012,16
+Tỉnh Thanh Hóa,Tỉnh,Bắc Trung Bộ,11114.6,3645.8,328.019002,102
+Tỉnh Nghệ An,Tỉnh,Bắc Trung Bộ,16481.4,3337.2,202.4827988,82
+Tỉnh Hà Tĩnh,Tỉnh,Bắc Trung Bộ,5990.7,1290.3,215.383845,137
+Tỉnh Quảng Bình,Tỉnh,Bắc Trung Bộ,8000,896.6,112.075,126
+Tỉnh Quảng Trị,Tỉnh,Bắc Trung Bộ,4621.7,633.4,137.0491378,75
+Tỉnh Thừa Thiên Huế,Tỉnh,Bắc Trung Bộ,4902.4,1129.5,230.3973564,120
+Thành phố Đà Nẵng,Thành phố Trung ương,Nam Trung Bộ,1284.9,1141.1,888.0846759,37
+Tỉnh Quảng Nam,Tỉnh,Nam Trung Bộ,10574.7,1497.5,141.6115824,125
+Tỉnh Quảng Ngãi,Tỉnh,Nam Trung Bộ,5155.8,1231.9,238.9347919,130
+Tỉnh Bình Định,Tỉnh,Nam Trung Bộ,6066.2,1487.8,245.2606244,134
+Tỉnh Phú Yên,Tỉnh,Nam Trung Bộ,5023.4,873.2,173.826492,182
+Tỉnh Khánh Hòa,Tỉnh,Nam Trung Bộ,5137.8,1232.8,239.9470591,370
+Tỉnh Ninh Thuận,Tỉnh,Nam Trung Bộ,3355.3,591,176.1392424,105
+Tỉnh Bình Thuận,Tỉnh,Nam Trung Bộ,7943.9,1232.3,155.1253163,192
+Tỉnh Kon Tum,Tỉnh,Tây Nguyên,9674.2,543.4,56.17001923,0
+Tỉnh Gia Lai,Tỉnh,Tây Nguyên,15511,1520.2,98.00786539,0
+Tỉnh Đắk Lắk,Tỉnh,Tây Nguyên,13030.5,1872.6,143.7089904,0
+Tỉnh Đắk Nông,Tỉnh,Tây Nguyên,6509.3,625.8,96.13936982,0
+Tỉnh Lâm Đồng,Tỉnh,Tây Nguyên,9783.3,1299.3,132.8079482,0
+Tỉnh Bình Phước,Tỉnh,Đông Nam Bộ,6876.8,997.8,145.0965565,0
+Tỉnh Tây Ninh,Tỉnh,Đông Nam Bộ,4041.3,1171.7,289.9314577,0
+Tỉnh Bình Dương,Tỉnh,Đông Nam Bộ,2694.6,2456.3,911.5638685,0
+Tỉnh Đồng Nai,Tỉnh,Đông Nam Bộ,5863.6,3113.7,531.0218978,0
+Tỉnh Bà Rịa - Vũng Tàu,Tỉnh,Đông Nam Bộ,1981,1152.2,581.6254417,72
+Thành phố Hồ Chí Minh,Thành phố Trung ương,Đông Nam Bộ,2061.4,9038.6,4384.690016,17
+Tỉnh Long An,Tỉnh,Đồng bằng sông Cửu Long,4494.9,1695.1,377.1162873,0
+Tỉnh Tiền Giang,Tỉnh,Đồng bằng sông Cửu Long,2510.6,1766.3,703.5370031,32
+Tỉnh Bến Tre,Tỉnh,Đồng bằng sông Cửu Long,2394.8,1289.1,538.2912978,60
+Tỉnh Trà Vinh,Tỉnh,Đồng bằng sông Cửu Long,2358.3,1009.3,427.9777806,65
+Tỉnh Vĩnh Long,Tỉnh,Đồng bằng sông Cửu Long,1525.7,1022.6,670.2497214,0
+Tỉnh Đồng Tháp,Tỉnh,Đồng bằng sông Cửu Long,3383.8,1598.8,472.4865536,0
+Tỉnh An Giang,Tỉnh,Đồng bằng sông Cửu Long,3536.7,1907.4,539.3163118,0
+Tỉnh Kiên Giang,Tỉnh,Đồng bằng sông Cửu Long,6348.8,1723.7,271.500126,200
+Thành phố Cần Thơ,Thành phố Trung ương,Đồng bằng sông Cửu Long,1439,1236,858.9298124,0
+Tỉnh Hậu Giang,Tỉnh,Đồng bằng sông Cửu Long,1621.7,732.2,451.5015108,0
+Tỉnh Sóc Trăng,Tỉnh,Đồng bằng sông Cửu Long,3311.9,1199.5,362.1788097,72
+Tỉnh Bạc Liêu,Tỉnh,Đồng bằng sông Cửu Long,2669,908.2,340.2772574,56
+Tỉnh Cà Mau,Tỉnh,Đồng bằng sông Cửu Long,5221.2,1194.3,228.7405194,254
